@@ -1,6 +1,7 @@
 # DataTypes-Exchanger
 This Python Video Tutorial explains about Python Data Type Exchange. 
 
+
 ```
 def DataTypeExchanger(dataType):
 	if dataType == "ZERO" or dataType == "Zero" or dataType == "zero" or dataType == "0":	
@@ -24,7 +25,12 @@ def DataTypeExchanger(dataType):
 	if dataType == "NINE" or dataType == "Nine" or dataType == "nine" or dataType == "9":	
 		return 9
 
-
+##Input
 print(DataTypeExchanger("seven"))
 
+```
+##Output
+```
+7
+[Finished in 140ms]
 ```
